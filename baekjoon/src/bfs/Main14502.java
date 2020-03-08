@@ -13,7 +13,7 @@ public class Main14502 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
+		//
 		N = sc.nextInt();
 		M = sc.nextInt();
 
